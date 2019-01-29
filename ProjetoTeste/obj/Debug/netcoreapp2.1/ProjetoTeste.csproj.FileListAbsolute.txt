@@ -1,0 +1,11 @@
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\bin\Debug\netcoreapp2.1\ProjetoTeste.deps.json
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\bin\Debug\netcoreapp2.1\ProjetoTeste.runtimeconfig.json
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\bin\Debug\netcoreapp2.1\ProjetoTeste.runtimeconfig.dev.json
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\bin\Debug\netcoreapp2.1\ProjetoTeste.dll
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\bin\Debug\netcoreapp2.1\ProjetoTeste.pdb
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\obj\Debug\netcoreapp2.1\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\obj\Debug\netcoreapp2.1\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\obj\Debug\netcoreapp2.1\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\obj\Debug\netcoreapp2.1\ProjetoTeste.AssemblyInfo.cs
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\obj\Debug\netcoreapp2.1\ProjetoTeste.dll
+C:\Users\Razi\Desktop\Teste\curso-git\ProjetoTeste\obj\Debug\netcoreapp2.1\ProjetoTeste.pdb

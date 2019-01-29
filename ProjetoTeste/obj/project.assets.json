@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Razi\\Desktop\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+      "projectUniqueName": "C:\\Users\\Razi\\Desktop\\Teste\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
       "projectName": "ProjetoTeste",
-      "projectPath": "C:\\Users\\Razi\\Desktop\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+      "projectPath": "C:\\Users\\Razi\\Desktop\\Teste\\curso-git\\ProjetoTeste\\ProjetoTeste.csproj",
       "packagesPath": "C:\\Users\\Razi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Razi\\Desktop\\ProjetoTeste\\ProjetoTeste\\obj\\",
+      "outputPath": "C:\\Users\\Razi\\Desktop\\Teste\\curso-git\\ProjetoTeste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
